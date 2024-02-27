@@ -1,0 +1,1567 @@
+{
+  "vaultName": "KangDongSeSac_DX_1",
+  "lastExport": 1709037847791,
+  "pluginVersion": "1.8.0",
+  "validBodyClasses": "publish css-settings-manager show-inline-title theme-dark",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "개발자와대화법/images/dev_meme_1.jpg",
+    "개발자와대화법/images/dev_meme_2.jpg",
+    "개발자와대화법/images/dev_meme_3.jpg",
+    "개발자와대화법/images/dev_meme_4.jpg",
+    "개발자와대화법/images/dev_meme_5.png",
+    "개발자와대화법/images/dev_meme_6.png",
+    "개발자와대화법/images/human.gif",
+    "개발자와대화법/images/nightelf.gif",
+    "개발자와대화법/images/orc.gif",
+    "개발자와대화법/images/undead.jpg",
+    "개발자와대화법/개발자와_대화법.md",
+    "스토리보드/readme.md",
+    "프로젝트관리/images/agile_0.jpg",
+    "프로젝트관리/images/backlog_0.jpg",
+    "프로젝트관리/images/dev_0.png",
+    "프로젝트관리/images/github_0.png",
+    "프로젝트관리/images/GTD.jpg",
+    "프로젝트관리/images/issue_track_0.png",
+    "프로젝트관리/images/jira_0.png",
+    "프로젝트관리/images/kanban_template_1.png",
+    "프로젝트관리/images/kanban_template_2.png",
+    "프로젝트관리/images/pm_issue_0.png",
+    "프로젝트관리/images/trello_2.png",
+    "프로젝트관리/images/trello_3.jpg",
+    "프로젝트관리/images/trello_4.png",
+    "프로젝트관리/images/trello_5.png",
+    "프로젝트관리/images/trello_7.gif",
+    "프로젝트관리/images/trello_start_1.png",
+    "프로젝트관리/images/trello_start_2.png",
+    "프로젝트관리/images/trello_start_3.png",
+    "프로젝트관리/images/trello_start_4.png",
+    "프로젝트관리/images/trello_start_5.gif",
+    "프로젝트관리/images/trello_start_6.gif",
+    "프로젝트관리/images/trello_start_7.png",
+    "프로젝트관리/images/trello_start_8.gif",
+    "프로젝트관리/1._project_기초상식.md",
+    "프로젝트관리/2._프로젝트_관리방법.md",
+    "프로젝트관리/3._PM의_이슈관리.md",
+    "프로젝트관리/4._trello_quickstart.md",
+    "프로젝트관리/5._외주개발_quickstart.md",
+    "etc/WBS_StoryBoard_양식만들기.md",
+    "github이슈관리/images/issue_1.jpg",
+    "github이슈관리/images/issue_2.jpg",
+    "github이슈관리/images/issue_3.gif",
+    "github이슈관리/images/issue_4.gif",
+    "github이슈관리/images/issue_5.gif",
+    "github이슈관리/images/issue_6.gif",
+    "github이슈관리/images/issue_7.gif",
+    "github이슈관리/images/issue_new_1.png",
+    "github이슈관리/images/issue_new_2.png",
+    "github이슈관리/images/issue_new_3.png",
+    "github이슈관리/images/issue_new_4.png",
+    "github이슈관리/images/project_1.png",
+    "github이슈관리/images/project_2.jpg",
+    "github이슈관리/images/project_3.jpg",
+    "github이슈관리/images/project_4.jpg",
+    "github이슈관리/images/project_5.jpg",
+    "github이슈관리/images/project_6.gif",
+    "github이슈관리/images/project_7.gif",
+    "github이슈관리/images/project_8.gif",
+    "github이슈관리/4._GITHUB_ISSUE관리.md",
+    "software/data/commit_2.zip",
+    "software/data/commit_3.zip",
+    "software/data/commit_4.zip",
+    "software/data/commit_5_1.zip",
+    "software/data/commit_5_2.zip",
+    "software/data/commit_5_3.zip",
+    "software/data/git_test.zip",
+    "software/images/best_pm_0.png",
+    "software/images/commit_backup_1.png",
+    "software/images/commit_backup_2.png",
+    "software/images/commit_backup_3.png",
+    "software/images/commit_backup_4.png",
+    "software/images/commit_mvp_1_0.png",
+    "software/images/commit_mvp_1_1.png",
+    "software/images/commit_mvp_1_2.png",
+    "software/images/commit_mvp_1_3.png",
+    "software/images/commit_mvp_2_1.png",
+    "software/images/commit_mvp_2_2.png",
+    "software/images/commit_mvp_3_1.png",
+    "software/images/figma_0.jpg",
+    "software/images/figma_1.jpg",
+    "software/images/git_1.jpg",
+    "software/images/git_2.jpg",
+    "software/images/git_3.jpg",
+    "software/images/git_ignore_1.jpg",
+    "software/images/git_ignore_2.jpg",
+    "software/images/github_auth_1.gif",
+    "software/images/github_repo_1.jpg",
+    "software/images/github_repo_2.jpg",
+    "software/images/github_repo_3.jpg",
+    "software/images/github_repo_4.jpg",
+    "software/images/github_repo_5.jpg",
+    "software/images/github_repo_6.gif",
+    "software/images/github_token_1.jpg",
+    "software/images/github_token_2.jpg",
+    "software/images/github_token_3.jpg",
+    "software/images/github_token_4.jpg",
+    "software/images/github_token_5.jpg",
+    "software/images/github_token_6.jpg",
+    "software/images/github_token_7.jpg",
+    "software/images/github_token_8.jpg",
+    "software/images/gitprofile_1.jpg",
+    "software/images/gitprofile_2.jpg",
+    "software/images/gitprofile_3.jpg",
+    "software/images/intro_1.png",
+    "software/images/local_commit_st1_1.png",
+    "software/images/local_commit_st1_2.png",
+    "software/images/local_commit_st1_3.png",
+    "software/images/local_commit_st1_4.png",
+    "software/images/localcommit_st2_1.png",
+    "software/images/localcommit_st2_2.png",
+    "software/images/localcommit_st2_3.png",
+    "software/images/localcommit_st3_1.png",
+    "software/images/localcommit_st3_2.png",
+    "software/images/localcommit_st3_3.png",
+    "software/images/localcommit_st4_1.png",
+    "software/images/localcommit_st4_2.png",
+    "software/images/localcommit_st4_3.png",
+    "software/images/localgit_1.png",
+    "software/images/localgit_2.png",
+    "software/images/localgit_3.png",
+    "software/images/localgit_4.png",
+    "software/images/localgit_5.png",
+    "software/images/obsidian_0.jpg",
+    "software/images/obsidian_1.jpg",
+    "software/images/obsidian_2.gif",
+    "software/images/obsidian_3.gif",
+    "software/images/obsidian_4.jpg",
+    "software/images/obsidian_5.jpg",
+    "software/images/obsidian_6.gif",
+    "software/images/obsidianpligin_0.jpg",
+    "software/images/obsidianpligin_1.jpg",
+    "software/images/obsidianpligin_2.jpg",
+    "software/images/obsidianpligin_3.jpg",
+    "software/images/obsidianpligin_exp.jpg",
+    "software/images/plan_is.png",
+    "software/images/pm_0.png",
+    "software/images/pm_is_engineering.jpg",
+    "software/images/pm_planner.jpg",
+    "software/images/pm_role_0.png",
+    "software/images/pm이란.png",
+    "software/images/project_fail.png",
+    "software/images/prompt_git_1.png",
+    "software/images/sigong_0.png",
+    "software/images/sourcetree_1.png",
+    "software/images/sourcetree_2.png",
+    "software/images/sourcetree_3.png",
+    "software/images/sourcetree_4.png",
+    "software/images/sourcetree_5.png",
+    "software/images/terminator_0.png",
+    "software/images/zeplin_1.png",
+    "software/images/zeplin_2.png",
+    "software/0._강의일정목표.md",
+    "software/1._PM의역할.md",
+    "software/2._PM에게_필요한GIT.md",
+    "software/2.0_초간단GIT.md",
+    "software/2.1_sourcetree설치.md",
+    "software/2.2_localgit_생성하기.md",
+    "software/2.3_localgit_최초_커밋하기.md",
+    "software/2.4_파일추가해서_커밋하기.md",
+    "software/2.5_파일내용_변경해서_커밋하기 1.md",
+    "software/2.6_파일내용_변경해서_커밋하기 2.md",
+    "software/2.7_브랜치만들기_mvp_1.md",
+    "software/2.8_브랜치만들기_mvp_2.md",
+    "software/2.9_브랜치합치기_mvp_3.md",
+    "software/2.10_sourcetree_참고사항.md",
+    "software/3._GITHUB_활용.md",
+    "software/4._Obsidian과_markdown.md",
+    "software/5._개발자와_디자이너_협업툴.md",
+    "WBS의이해/data/wbs_template.xlsx",
+    "WBS의이해/images/bard_0.jpg",
+    "WBS의이해/images/brand_1.png",
+    "WBS의이해/images/condition_style1.gif",
+    "WBS의이해/images/condition_style2.gif",
+    "WBS의이해/images/google_condition_1.gif",
+    "WBS의이해/images/google_condition_2.jpg",
+    "WBS의이해/images/libre_condition_1.gif",
+    "WBS의이해/images/libre_condition_2.gif",
+    "WBS의이해/images/network_0.jpg",
+    "WBS의이해/images/network_1.jpg",
+    "WBS의이해/images/network_2.jpg",
+    "WBS의이해/images/network_google_1.jpg",
+    "WBS의이해/images/network_google_2.jpg",
+    "WBS의이해/images/wbs_1.png",
+    "WBS의이해/images/wbs_wiki.jpg",
+    "WBS의이해/images/wiki_template_1.jpg",
+    "WBS의이해/3._githubblog_wiki.md",
+    "WBS의이해/4._WBS이해.md",
+    "WBS의이해/4.1_Excel_조건문_서식.md",
+    "WBS의이해/4.2_GoogleSheet_조건문_서식.md",
+    "WBS의이해/4.3_LibreOffice_조건문_서식.md",
+    "README.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "fileInfo": {
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1709037331798,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1709037331798,
+      "sourceSize": 78887,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1709037331798,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1709037331798,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1709037331798,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1709037331798,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1709037331798,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1709037331798,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1709037331798,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1709037331798,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1709037331798,
+      "sourceSize": 2239,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1709037331798,
+      "sourceSize": 37375,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1709037331798,
+      "sourceSize": 2751,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1709037331798,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1709037331798,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "개발자와대화법/images/dev_meme_1.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 72397,
+      "exportedPath": "개발자와대화법/images/dev_meme_1.jpg",
+      "dependencies": []
+    },
+    "개발자와대화법/images/dev_meme_2.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 22904,
+      "exportedPath": "개발자와대화법/images/dev_meme_2.jpg",
+      "dependencies": []
+    },
+    "개발자와대화법/images/dev_meme_3.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 69816,
+      "exportedPath": "개발자와대화법/images/dev_meme_3.jpg",
+      "dependencies": []
+    },
+    "개발자와대화법/images/dev_meme_4.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 49489,
+      "exportedPath": "개발자와대화법/images/dev_meme_4.jpg",
+      "dependencies": []
+    },
+    "개발자와대화법/images/dev_meme_5.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 813378,
+      "exportedPath": "개발자와대화법/images/dev_meme_5.png",
+      "dependencies": []
+    },
+    "개발자와대화법/images/dev_meme_6.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 370597,
+      "exportedPath": "개발자와대화법/images/dev_meme_6.png",
+      "dependencies": []
+    },
+    "개발자와대화법/images/human.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 4741456,
+      "exportedPath": "개발자와대화법/images/human.gif",
+      "dependencies": []
+    },
+    "개발자와대화법/images/nightelf.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 1193249,
+      "exportedPath": "개발자와대화법/images/nightelf.gif",
+      "dependencies": []
+    },
+    "개발자와대화법/images/orc.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 2359728,
+      "exportedPath": "개발자와대화법/images/orc.gif",
+      "dependencies": []
+    },
+    "개발자와대화법/images/undead.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 123407,
+      "exportedPath": "개발자와대화법/images/undead.jpg",
+      "dependencies": []
+    },
+    "개발자와대화법/개발자와_대화법.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 7727,
+      "exportedPath": "개발자와대화법/개발자와_대화법.html",
+      "dependencies": []
+    },
+    "스토리보드/readme.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 257,
+      "exportedPath": "스토리보드/readme.html",
+      "dependencies": []
+    },
+    "프로젝트관리/images/agile_0.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 163626,
+      "exportedPath": "프로젝트관리/images/agile_0.jpg",
+      "dependencies": []
+    },
+    "프로젝트관리/images/backlog_0.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 54392,
+      "exportedPath": "프로젝트관리/images/backlog_0.jpg",
+      "dependencies": []
+    },
+    "프로젝트관리/images/dev_0.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 253757,
+      "exportedPath": "프로젝트관리/images/dev_0.png",
+      "dependencies": []
+    },
+    "프로젝트관리/images/github_0.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 72501,
+      "exportedPath": "프로젝트관리/images/github_0.png",
+      "dependencies": []
+    },
+    "프로젝트관리/images/GTD.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 28919,
+      "exportedPath": "프로젝트관리/images/GTD.jpg",
+      "dependencies": []
+    },
+    "프로젝트관리/images/issue_track_0.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 112817,
+      "exportedPath": "프로젝트관리/images/issue_track_0.png",
+      "dependencies": []
+    },
+    "프로젝트관리/images/jira_0.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 140319,
+      "exportedPath": "프로젝트관리/images/jira_0.png",
+      "dependencies": []
+    },
+    "프로젝트관리/images/kanban_template_1.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 978513,
+      "exportedPath": "프로젝트관리/images/kanban_template_1.png",
+      "dependencies": []
+    },
+    "프로젝트관리/images/kanban_template_2.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 127872,
+      "exportedPath": "프로젝트관리/images/kanban_template_2.png",
+      "dependencies": []
+    },
+    "프로젝트관리/images/pm_issue_0.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 100648,
+      "exportedPath": "프로젝트관리/images/pm_issue_0.png",
+      "dependencies": []
+    },
+    "프로젝트관리/images/trello_2.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 698546,
+      "exportedPath": "프로젝트관리/images/trello_2.png",
+      "dependencies": []
+    },
+    "프로젝트관리/images/trello_3.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 57086,
+      "exportedPath": "프로젝트관리/images/trello_3.jpg",
+      "dependencies": []
+    },
+    "프로젝트관리/images/trello_4.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 654330,
+      "exportedPath": "프로젝트관리/images/trello_4.png",
+      "dependencies": []
+    },
+    "프로젝트관리/images/trello_5.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 125597,
+      "exportedPath": "프로젝트관리/images/trello_5.png",
+      "dependencies": []
+    },
+    "프로젝트관리/images/trello_7.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 6218661,
+      "exportedPath": "프로젝트관리/images/trello_7.gif",
+      "dependencies": []
+    },
+    "프로젝트관리/images/trello_start_1.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 9988,
+      "exportedPath": "프로젝트관리/images/trello_start_1.png",
+      "dependencies": []
+    },
+    "프로젝트관리/images/trello_start_2.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 82778,
+      "exportedPath": "프로젝트관리/images/trello_start_2.png",
+      "dependencies": []
+    },
+    "프로젝트관리/images/trello_start_3.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 146192,
+      "exportedPath": "프로젝트관리/images/trello_start_3.png",
+      "dependencies": []
+    },
+    "프로젝트관리/images/trello_start_4.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 1198739,
+      "exportedPath": "프로젝트관리/images/trello_start_4.png",
+      "dependencies": []
+    },
+    "프로젝트관리/images/trello_start_5.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 2695337,
+      "exportedPath": "프로젝트관리/images/trello_start_5.gif",
+      "dependencies": []
+    },
+    "프로젝트관리/images/trello_start_6.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 1508986,
+      "exportedPath": "프로젝트관리/images/trello_start_6.gif",
+      "dependencies": []
+    },
+    "프로젝트관리/images/trello_start_7.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 134198,
+      "exportedPath": "프로젝트관리/images/trello_start_7.png",
+      "dependencies": []
+    },
+    "프로젝트관리/images/trello_start_8.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 4335013,
+      "exportedPath": "프로젝트관리/images/trello_start_8.gif",
+      "dependencies": []
+    },
+    "프로젝트관리/1._project_기초상식.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 2761,
+      "exportedPath": "프로젝트관리/1._project_기초상식.html",
+      "dependencies": []
+    },
+    "프로젝트관리/2._프로젝트_관리방법.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 13562,
+      "exportedPath": "프로젝트관리/2._프로젝트_관리방법.html",
+      "dependencies": []
+    },
+    "프로젝트관리/3._PM의_이슈관리.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 8103,
+      "exportedPath": "프로젝트관리/3._PM의_이슈관리.html",
+      "dependencies": []
+    },
+    "프로젝트관리/4._trello_quickstart.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 3955,
+      "exportedPath": "프로젝트관리/4._trello_quickstart.html",
+      "dependencies": []
+    },
+    "프로젝트관리/5._외주개발_quickstart.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 6784,
+      "exportedPath": "프로젝트관리/5._외주개발_quickstart.html",
+      "dependencies": []
+    },
+    "etc/WBS_StoryBoard_양식만들기.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 4424,
+      "exportedPath": "etc/WBS_StoryBoard_양식만들기.html",
+      "dependencies": []
+    },
+    "github이슈관리/images/issue_1.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 166594,
+      "exportedPath": "github이슈관리/images/issue_1.jpg",
+      "dependencies": []
+    },
+    "github이슈관리/images/issue_2.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 145883,
+      "exportedPath": "github이슈관리/images/issue_2.jpg",
+      "dependencies": []
+    },
+    "github이슈관리/images/issue_3.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 260369,
+      "exportedPath": "github이슈관리/images/issue_3.gif",
+      "dependencies": []
+    },
+    "github이슈관리/images/issue_4.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 195407,
+      "exportedPath": "github이슈관리/images/issue_4.gif",
+      "dependencies": []
+    },
+    "github이슈관리/images/issue_5.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 214846,
+      "exportedPath": "github이슈관리/images/issue_5.gif",
+      "dependencies": []
+    },
+    "github이슈관리/images/issue_6.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 331468,
+      "exportedPath": "github이슈관리/images/issue_6.gif",
+      "dependencies": []
+    },
+    "github이슈관리/images/issue_7.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 177620,
+      "exportedPath": "github이슈관리/images/issue_7.gif",
+      "dependencies": []
+    },
+    "github이슈관리/images/issue_new_1.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 82662,
+      "exportedPath": "github이슈관리/images/issue_new_1.png",
+      "dependencies": []
+    },
+    "github이슈관리/images/issue_new_2.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 74703,
+      "exportedPath": "github이슈관리/images/issue_new_2.png",
+      "dependencies": []
+    },
+    "github이슈관리/images/issue_new_3.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 141792,
+      "exportedPath": "github이슈관리/images/issue_new_3.png",
+      "dependencies": []
+    },
+    "github이슈관리/images/issue_new_4.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 125206,
+      "exportedPath": "github이슈관리/images/issue_new_4.png",
+      "dependencies": []
+    },
+    "github이슈관리/images/project_1.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 241037,
+      "exportedPath": "github이슈관리/images/project_1.png",
+      "dependencies": []
+    },
+    "github이슈관리/images/project_2.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 97512,
+      "exportedPath": "github이슈관리/images/project_2.jpg",
+      "dependencies": []
+    },
+    "github이슈관리/images/project_3.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 66604,
+      "exportedPath": "github이슈관리/images/project_3.jpg",
+      "dependencies": []
+    },
+    "github이슈관리/images/project_4.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 84157,
+      "exportedPath": "github이슈관리/images/project_4.jpg",
+      "dependencies": []
+    },
+    "github이슈관리/images/project_5.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 40849,
+      "exportedPath": "github이슈관리/images/project_5.jpg",
+      "dependencies": []
+    },
+    "github이슈관리/images/project_6.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 842718,
+      "exportedPath": "github이슈관리/images/project_6.gif",
+      "dependencies": []
+    },
+    "github이슈관리/images/project_7.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 2841284,
+      "exportedPath": "github이슈관리/images/project_7.gif",
+      "dependencies": []
+    },
+    "github이슈관리/images/project_8.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 558521,
+      "exportedPath": "github이슈관리/images/project_8.gif",
+      "dependencies": []
+    },
+    "github이슈관리/4._GITHUB_ISSUE관리.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 10158,
+      "exportedPath": "github이슈관리/4._GITHUB_ISSUE관리.html",
+      "dependencies": []
+    },
+    "software/data/commit_2.zip": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 18748,
+      "exportedPath": "software/data/commit_2.zip",
+      "dependencies": []
+    },
+    "software/data/commit_3.zip": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 17888,
+      "exportedPath": "software/data/commit_3.zip",
+      "dependencies": []
+    },
+    "software/data/commit_4.zip": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 19177,
+      "exportedPath": "software/data/commit_4.zip",
+      "dependencies": []
+    },
+    "software/data/commit_5_1.zip": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 47424,
+      "exportedPath": "software/data/commit_5_1.zip",
+      "dependencies": []
+    },
+    "software/data/commit_5_2.zip": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 48313,
+      "exportedPath": "software/data/commit_5_2.zip",
+      "dependencies": []
+    },
+    "software/data/commit_5_3.zip": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 49079,
+      "exportedPath": "software/data/commit_5_3.zip",
+      "dependencies": []
+    },
+    "software/data/git_test.zip": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 282211,
+      "exportedPath": "software/data/git_test.zip",
+      "dependencies": []
+    },
+    "software/images/best_pm_0.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 54497,
+      "exportedPath": "software/images/best_pm_0.png",
+      "dependencies": []
+    },
+    "software/images/commit_backup_1.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 56044,
+      "exportedPath": "software/images/commit_backup_1.png",
+      "dependencies": []
+    },
+    "software/images/commit_backup_2.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 85214,
+      "exportedPath": "software/images/commit_backup_2.png",
+      "dependencies": []
+    },
+    "software/images/commit_backup_3.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 15772,
+      "exportedPath": "software/images/commit_backup_3.png",
+      "dependencies": []
+    },
+    "software/images/commit_backup_4.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 43518,
+      "exportedPath": "software/images/commit_backup_4.png",
+      "dependencies": []
+    },
+    "software/images/commit_mvp_1_0.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 10795,
+      "exportedPath": "software/images/commit_mvp_1_0.png",
+      "dependencies": []
+    },
+    "software/images/commit_mvp_1_1.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 13147,
+      "exportedPath": "software/images/commit_mvp_1_1.png",
+      "dependencies": []
+    },
+    "software/images/commit_mvp_1_2.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 49650,
+      "exportedPath": "software/images/commit_mvp_1_2.png",
+      "dependencies": []
+    },
+    "software/images/commit_mvp_1_3.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 87949,
+      "exportedPath": "software/images/commit_mvp_1_3.png",
+      "dependencies": []
+    },
+    "software/images/commit_mvp_2_1.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 46237,
+      "exportedPath": "software/images/commit_mvp_2_1.png",
+      "dependencies": []
+    },
+    "software/images/commit_mvp_2_2.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 87173,
+      "exportedPath": "software/images/commit_mvp_2_2.png",
+      "dependencies": []
+    },
+    "software/images/commit_mvp_3_1.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 83728,
+      "exportedPath": "software/images/commit_mvp_3_1.png",
+      "dependencies": []
+    },
+    "software/images/figma_0.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 287917,
+      "exportedPath": "software/images/figma_0.jpg",
+      "dependencies": []
+    },
+    "software/images/figma_1.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 230034,
+      "exportedPath": "software/images/figma_1.jpg",
+      "dependencies": []
+    },
+    "software/images/git_1.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 1065291,
+      "exportedPath": "software/images/git_1.jpg",
+      "dependencies": []
+    },
+    "software/images/git_2.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 1243999,
+      "exportedPath": "software/images/git_2.jpg",
+      "dependencies": []
+    },
+    "software/images/git_3.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 1227532,
+      "exportedPath": "software/images/git_3.jpg",
+      "dependencies": []
+    },
+    "software/images/git_ignore_1.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 45399,
+      "exportedPath": "software/images/git_ignore_1.jpg",
+      "dependencies": []
+    },
+    "software/images/git_ignore_2.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 44889,
+      "exportedPath": "software/images/git_ignore_2.jpg",
+      "dependencies": []
+    },
+    "software/images/github_auth_1.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 984791,
+      "exportedPath": "software/images/github_auth_1.gif",
+      "dependencies": []
+    },
+    "software/images/github_repo_1.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 22432,
+      "exportedPath": "software/images/github_repo_1.jpg",
+      "dependencies": []
+    },
+    "software/images/github_repo_2.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 98080,
+      "exportedPath": "software/images/github_repo_2.jpg",
+      "dependencies": []
+    },
+    "software/images/github_repo_3.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 95551,
+      "exportedPath": "software/images/github_repo_3.jpg",
+      "dependencies": []
+    },
+    "software/images/github_repo_4.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 159035,
+      "exportedPath": "software/images/github_repo_4.jpg",
+      "dependencies": []
+    },
+    "software/images/github_repo_5.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 40647,
+      "exportedPath": "software/images/github_repo_5.jpg",
+      "dependencies": []
+    },
+    "software/images/github_repo_6.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 609944,
+      "exportedPath": "software/images/github_repo_6.gif",
+      "dependencies": []
+    },
+    "software/images/github_token_1.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 113022,
+      "exportedPath": "software/images/github_token_1.jpg",
+      "dependencies": []
+    },
+    "software/images/github_token_2.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 95970,
+      "exportedPath": "software/images/github_token_2.jpg",
+      "dependencies": []
+    },
+    "software/images/github_token_3.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 53271,
+      "exportedPath": "software/images/github_token_3.jpg",
+      "dependencies": []
+    },
+    "software/images/github_token_4.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 52621,
+      "exportedPath": "software/images/github_token_4.jpg",
+      "dependencies": []
+    },
+    "software/images/github_token_5.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 74264,
+      "exportedPath": "software/images/github_token_5.jpg",
+      "dependencies": []
+    },
+    "software/images/github_token_6.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 85989,
+      "exportedPath": "software/images/github_token_6.jpg",
+      "dependencies": []
+    },
+    "software/images/github_token_7.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 97886,
+      "exportedPath": "software/images/github_token_7.jpg",
+      "dependencies": []
+    },
+    "software/images/github_token_8.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 80168,
+      "exportedPath": "software/images/github_token_8.jpg",
+      "dependencies": []
+    },
+    "software/images/gitprofile_1.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 152550,
+      "exportedPath": "software/images/gitprofile_1.jpg",
+      "dependencies": []
+    },
+    "software/images/gitprofile_2.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 67467,
+      "exportedPath": "software/images/gitprofile_2.jpg",
+      "dependencies": []
+    },
+    "software/images/gitprofile_3.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 225711,
+      "exportedPath": "software/images/gitprofile_3.jpg",
+      "dependencies": []
+    },
+    "software/images/intro_1.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 11795,
+      "exportedPath": "software/images/intro_1.png",
+      "dependencies": []
+    },
+    "software/images/local_commit_st1_1.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 70928,
+      "exportedPath": "software/images/local_commit_st1_1.png",
+      "dependencies": []
+    },
+    "software/images/local_commit_st1_2.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 68865,
+      "exportedPath": "software/images/local_commit_st1_2.png",
+      "dependencies": []
+    },
+    "software/images/local_commit_st1_3.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 72389,
+      "exportedPath": "software/images/local_commit_st1_3.png",
+      "dependencies": []
+    },
+    "software/images/local_commit_st1_4.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 84869,
+      "exportedPath": "software/images/local_commit_st1_4.png",
+      "dependencies": []
+    },
+    "software/images/localcommit_st2_1.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 51673,
+      "exportedPath": "software/images/localcommit_st2_1.png",
+      "dependencies": []
+    },
+    "software/images/localcommit_st2_2.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 76817,
+      "exportedPath": "software/images/localcommit_st2_2.png",
+      "dependencies": []
+    },
+    "software/images/localcommit_st2_3.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 94112,
+      "exportedPath": "software/images/localcommit_st2_3.png",
+      "dependencies": []
+    },
+    "software/images/localcommit_st3_1.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 32636,
+      "exportedPath": "software/images/localcommit_st3_1.png",
+      "dependencies": []
+    },
+    "software/images/localcommit_st3_2.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 78299,
+      "exportedPath": "software/images/localcommit_st3_2.png",
+      "dependencies": []
+    },
+    "software/images/localcommit_st3_3.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 97197,
+      "exportedPath": "software/images/localcommit_st3_3.png",
+      "dependencies": []
+    },
+    "software/images/localcommit_st4_1.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 58105,
+      "exportedPath": "software/images/localcommit_st4_1.png",
+      "dependencies": []
+    },
+    "software/images/localcommit_st4_2.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 82309,
+      "exportedPath": "software/images/localcommit_st4_2.png",
+      "dependencies": []
+    },
+    "software/images/localcommit_st4_3.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 98704,
+      "exportedPath": "software/images/localcommit_st4_3.png",
+      "dependencies": []
+    },
+    "software/images/localgit_1.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 18361,
+      "exportedPath": "software/images/localgit_1.png",
+      "dependencies": []
+    },
+    "software/images/localgit_2.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 17582,
+      "exportedPath": "software/images/localgit_2.png",
+      "dependencies": []
+    },
+    "software/images/localgit_3.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 42189,
+      "exportedPath": "software/images/localgit_3.png",
+      "dependencies": []
+    },
+    "software/images/localgit_4.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 70657,
+      "exportedPath": "software/images/localgit_4.png",
+      "dependencies": []
+    },
+    "software/images/localgit_5.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 110854,
+      "exportedPath": "software/images/localgit_5.png",
+      "dependencies": []
+    },
+    "software/images/obsidian_0.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 23526,
+      "exportedPath": "software/images/obsidian_0.jpg",
+      "dependencies": []
+    },
+    "software/images/obsidian_1.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 56168,
+      "exportedPath": "software/images/obsidian_1.jpg",
+      "dependencies": []
+    },
+    "software/images/obsidian_2.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 779939,
+      "exportedPath": "software/images/obsidian_2.gif",
+      "dependencies": []
+    },
+    "software/images/obsidian_3.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 6175001,
+      "exportedPath": "software/images/obsidian_3.gif",
+      "dependencies": []
+    },
+    "software/images/obsidian_4.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 64824,
+      "exportedPath": "software/images/obsidian_4.jpg",
+      "dependencies": []
+    },
+    "software/images/obsidian_5.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 60902,
+      "exportedPath": "software/images/obsidian_5.jpg",
+      "dependencies": []
+    },
+    "software/images/obsidian_6.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 1948288,
+      "exportedPath": "software/images/obsidian_6.gif",
+      "dependencies": []
+    },
+    "software/images/obsidianpligin_0.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 181380,
+      "exportedPath": "software/images/obsidianpligin_0.jpg",
+      "dependencies": []
+    },
+    "software/images/obsidianpligin_1.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 195645,
+      "exportedPath": "software/images/obsidianpligin_1.jpg",
+      "dependencies": []
+    },
+    "software/images/obsidianpligin_2.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 184789,
+      "exportedPath": "software/images/obsidianpligin_2.jpg",
+      "dependencies": []
+    },
+    "software/images/obsidianpligin_3.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 159996,
+      "exportedPath": "software/images/obsidianpligin_3.jpg",
+      "dependencies": []
+    },
+    "software/images/obsidianpligin_exp.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 189701,
+      "exportedPath": "software/images/obsidianpligin_exp.jpg",
+      "dependencies": []
+    },
+    "software/images/plan_is.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 243610,
+      "exportedPath": "software/images/plan_is.png",
+      "dependencies": []
+    },
+    "software/images/pm_0.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 1255811,
+      "exportedPath": "software/images/pm_0.png",
+      "dependencies": []
+    },
+    "software/images/pm_is_engineering.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 212294,
+      "exportedPath": "software/images/pm_is_engineering.jpg",
+      "dependencies": []
+    },
+    "software/images/pm_planner.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 441425,
+      "exportedPath": "software/images/pm_planner.jpg",
+      "dependencies": []
+    },
+    "software/images/pm_role_0.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 21721,
+      "exportedPath": "software/images/pm_role_0.png",
+      "dependencies": []
+    },
+    "software/images/pm이란.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 96879,
+      "exportedPath": "software/images/pm이란.png",
+      "dependencies": []
+    },
+    "software/images/project_fail.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 109196,
+      "exportedPath": "software/images/project_fail.png",
+      "dependencies": []
+    },
+    "software/images/prompt_git_1.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 154583,
+      "exportedPath": "software/images/prompt_git_1.png",
+      "dependencies": []
+    },
+    "software/images/sigong_0.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 71310,
+      "exportedPath": "software/images/sigong_0.png",
+      "dependencies": []
+    },
+    "software/images/sourcetree_1.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 631335,
+      "exportedPath": "software/images/sourcetree_1.png",
+      "dependencies": []
+    },
+    "software/images/sourcetree_2.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 39803,
+      "exportedPath": "software/images/sourcetree_2.png",
+      "dependencies": []
+    },
+    "software/images/sourcetree_3.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 42153,
+      "exportedPath": "software/images/sourcetree_3.png",
+      "dependencies": []
+    },
+    "software/images/sourcetree_4.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 31500,
+      "exportedPath": "software/images/sourcetree_4.png",
+      "dependencies": []
+    },
+    "software/images/sourcetree_5.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 13902,
+      "exportedPath": "software/images/sourcetree_5.png",
+      "dependencies": []
+    },
+    "software/images/terminator_0.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 903384,
+      "exportedPath": "software/images/terminator_0.png",
+      "dependencies": []
+    },
+    "software/images/zeplin_1.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 381842,
+      "exportedPath": "software/images/zeplin_1.png",
+      "dependencies": []
+    },
+    "software/images/zeplin_2.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 169471,
+      "exportedPath": "software/images/zeplin_2.png",
+      "dependencies": []
+    },
+    "software/0._강의일정목표.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 2466,
+      "exportedPath": "software/0._강의일정목표.html",
+      "dependencies": []
+    },
+    "software/1._PM의역할.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 4393,
+      "exportedPath": "software/1._PM의역할.html",
+      "dependencies": []
+    },
+    "software/2._PM에게_필요한GIT.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 5227,
+      "exportedPath": "software/2._PM에게_필요한GIT.html",
+      "dependencies": []
+    },
+    "software/2.0_초간단GIT.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 4714,
+      "exportedPath": "software/2.0_초간단GIT.html",
+      "dependencies": []
+    },
+    "software/2.1_sourcetree설치.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 580,
+      "exportedPath": "software/2.1_sourcetree설치.html",
+      "dependencies": []
+    },
+    "software/2.2_localgit_생성하기.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 985,
+      "exportedPath": "software/2.2_localgit_생성하기.html",
+      "dependencies": []
+    },
+    "software/2.3_localgit_최초_커밋하기.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 1678,
+      "exportedPath": "software/2.3_localgit_최초_커밋하기.html",
+      "dependencies": []
+    },
+    "software/2.4_파일추가해서_커밋하기.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 1109,
+      "exportedPath": "software/2.4_파일추가해서_커밋하기.html",
+      "dependencies": []
+    },
+    "software/2.5_파일내용_변경해서_커밋하기 1.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 1161,
+      "exportedPath": "software/2.5_파일내용_변경해서_커밋하기 1.html",
+      "dependencies": []
+    },
+    "software/2.6_파일내용_변경해서_커밋하기 2.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 1112,
+      "exportedPath": "software/2.6_파일내용_변경해서_커밋하기 2.html",
+      "dependencies": []
+    },
+    "software/2.7_브랜치만들기_mvp_1.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 1400,
+      "exportedPath": "software/2.7_브랜치만들기_mvp_1.html",
+      "dependencies": []
+    },
+    "software/2.8_브랜치만들기_mvp_2.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 869,
+      "exportedPath": "software/2.8_브랜치만들기_mvp_2.html",
+      "dependencies": []
+    },
+    "software/2.9_브랜치합치기_mvp_3.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 779,
+      "exportedPath": "software/2.9_브랜치합치기_mvp_3.html",
+      "dependencies": []
+    },
+    "software/2.10_sourcetree_참고사항.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 2829,
+      "exportedPath": "software/2.10_sourcetree_참고사항.html",
+      "dependencies": []
+    },
+    "software/3._GITHUB_활용.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 7881,
+      "exportedPath": "software/3._GITHUB_활용.html",
+      "dependencies": []
+    },
+    "software/4._Obsidian과_markdown.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 4900,
+      "exportedPath": "software/4._Obsidian과_markdown.html",
+      "dependencies": []
+    },
+    "software/5._개발자와_디자이너_협업툴.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 1122,
+      "exportedPath": "software/5._개발자와_디자이너_협업툴.html",
+      "dependencies": []
+    },
+    "WBS의이해/data/wbs_template.xlsx": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 353148,
+      "exportedPath": "WBS의이해/data/wbs_template.xlsx",
+      "dependencies": []
+    },
+    "WBS의이해/images/bard_0.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 363889,
+      "exportedPath": "WBS의이해/images/bard_0.jpg",
+      "dependencies": []
+    },
+    "WBS의이해/images/brand_1.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 411096,
+      "exportedPath": "WBS의이해/images/brand_1.png",
+      "dependencies": []
+    },
+    "WBS의이해/images/condition_style1.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 1240931,
+      "exportedPath": "WBS의이해/images/condition_style1.gif",
+      "dependencies": []
+    },
+    "WBS의이해/images/condition_style2.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 322171,
+      "exportedPath": "WBS의이해/images/condition_style2.gif",
+      "dependencies": []
+    },
+    "WBS의이해/images/google_condition_1.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 401262,
+      "exportedPath": "WBS의이해/images/google_condition_1.gif",
+      "dependencies": []
+    },
+    "WBS의이해/images/google_condition_2.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 56706,
+      "exportedPath": "WBS의이해/images/google_condition_2.jpg",
+      "dependencies": []
+    },
+    "WBS의이해/images/libre_condition_1.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 534697,
+      "exportedPath": "WBS의이해/images/libre_condition_1.gif",
+      "dependencies": []
+    },
+    "WBS의이해/images/libre_condition_2.gif": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 506971,
+      "exportedPath": "WBS의이해/images/libre_condition_2.gif",
+      "dependencies": []
+    },
+    "WBS의이해/images/network_0.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 26792,
+      "exportedPath": "WBS의이해/images/network_0.jpg",
+      "dependencies": []
+    },
+    "WBS의이해/images/network_1.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 52090,
+      "exportedPath": "WBS의이해/images/network_1.jpg",
+      "dependencies": []
+    },
+    "WBS의이해/images/network_2.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 40667,
+      "exportedPath": "WBS의이해/images/network_2.jpg",
+      "dependencies": []
+    },
+    "WBS의이해/images/network_google_1.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 27076,
+      "exportedPath": "WBS의이해/images/network_google_1.jpg",
+      "dependencies": []
+    },
+    "WBS의이해/images/network_google_2.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 54850,
+      "exportedPath": "WBS의이해/images/network_google_2.jpg",
+      "dependencies": []
+    },
+    "WBS의이해/images/wbs_1.png": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 116246,
+      "exportedPath": "WBS의이해/images/wbs_1.png",
+      "dependencies": []
+    },
+    "WBS의이해/images/wbs_wiki.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 73059,
+      "exportedPath": "WBS의이해/images/wbs_wiki.jpg",
+      "dependencies": []
+    },
+    "WBS의이해/images/wiki_template_1.jpg": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 145518,
+      "exportedPath": "WBS의이해/images/wiki_template_1.jpg",
+      "dependencies": []
+    },
+    "WBS의이해/3._githubblog_wiki.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 3079,
+      "exportedPath": "WBS의이해/3._githubblog_wiki.html",
+      "dependencies": []
+    },
+    "WBS의이해/4._WBS이해.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 10035,
+      "exportedPath": "WBS의이해/4._WBS이해.html",
+      "dependencies": []
+    },
+    "WBS의이해/4.1_Excel_조건문_서식.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 3140,
+      "exportedPath": "WBS의이해/4.1_Excel_조건문_서식.html",
+      "dependencies": []
+    },
+    "WBS의이해/4.2_GoogleSheet_조건문_서식.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 3023,
+      "exportedPath": "WBS의이해/4.2_GoogleSheet_조건문_서식.html",
+      "dependencies": []
+    },
+    "WBS의이해/4.3_LibreOffice_조건문_서식.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 2824,
+      "exportedPath": "WBS의이해/4.3_LibreOffice_조건문_서식.html",
+      "dependencies": []
+    },
+    "README.md": {
+      "modifiedTime": 1709037847791,
+      "sourceSize": 322,
+      "exportedPath": "README.html",
+      "dependencies": []
+    }
+  }
+}
